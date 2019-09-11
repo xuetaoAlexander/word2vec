@@ -1,0 +1,300 @@
+[I 10:11:00.903 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 10:11:00.903 NotebookApp] Serving notebooks from local directory: /home/xuetaozhang/papers/word2vec
+[I 10:11:00.903 NotebookApp] The Jupyter Notebook is running at:
+[I 10:11:00.903 NotebookApp] http://localhost:8888/?token=aac501f141e04328a98fab584141fa6a9f825ea079a63515
+[I 10:11:00.903 NotebookApp]  or http://127.0.0.1:8888/?token=aac501f141e04328a98fab584141fa6a9f825ea079a63515
+[I 10:11:00.903 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:11:00.907 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/xuetaozhang/.local/share/jupyter/runtime/nbserver-4078-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=aac501f141e04328a98fab584141fa6a9f825ea079a63515
+     or http://127.0.0.1:8888/?token=aac501f141e04328a98fab584141fa6a9f825ea079a63515
+[4093:4112:0910/101101.253563:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Opening in existing browser session.
+[E 10:11:02.338 NotebookApp] Could not open static file ''
+[W 10:11:02.379 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 11.30ms referer=http://localhost:8888/tree?token=aac501f141e04328a98fab584141fa6a9f825ea079a63515
+[W 10:11:02.397 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 3.19ms referer=http://localhost:8888/tree?token=aac501f141e04328a98fab584141fa6a9f825ea079a63515
+[W 10:11:05.932 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 2.22ms referer=http://localhost:8888/notebooks/Untitled.ipynb
+[W 10:11:05.968 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 2.24ms referer=http://localhost:8888/notebooks/Untitled.ipynb
+[I 10:11:06.428 NotebookApp] Kernel started: 651bbbdc-f535-4135-8f59-05dd9cf60fd9
+[W 10:11:06.640 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190910101100 (127.0.0.1) 4.31ms referer=http://localhost:8888/notebooks/Untitled.ipynb
+[I 10:11:06.967 NotebookApp] Adapting from protocol version 5.1 (kernel 651bbbdc-f535-4135-8f59-05dd9cf60fd9) to 5.3 (client).
+[I 10:13:06.428 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:15:06.419 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:17:06.421 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:19:06.418 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:21:06.419 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:25:06.418 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:33:06.419 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:35:06.416 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:43:06.418 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:51:06.419 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:53:06.419 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:21:06.432 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:23:06.420 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:39:06.435 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:53:06.420 NotebookApp] Saving file at /Untitled.ipynb
+2019-09-10 11:53:13.159713: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-09-10 11:53:13.193413: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2095955000 Hz
+2019-09-10 11:53:13.194679: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x3832490 executing computations on platform Host. Devices:
+2019-09-10 11:53:13.194743: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): <undefined>, <undefined>
+2019-09-10 11:53:13.432231: W tensorflow/compiler/jit/mark_for_compilation_pass.cc:1412] (One-time warning): Not using XLA:CPU for cluster because envvar TF_XLA_FLAGS=--tf_xla_cpu_global_jit was not set.  If you want XLA:CPU, either set that envvar, or use experimental_jit_scope to enable XLA:CPU.  To confirm that XLA is active, pass --vmodule=xla_compilation_cache=1 (as a proper command-line flag, not via TF_XLA_FLAGS) or set the envvar XLA_FLAGS=--xla_hlo_profile.
+[I 11:55:06.421 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:09:06.841 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:11:06.824 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:19:06.426 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:21:06.419 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:23:06.420 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:20:46.514 NotebookApp] Starting buffering for 651bbbdc-f535-4135-8f59-05dd9cf60fd9:866d23a416ac4963bae86789fb255f1e
+[I 23:15:51.053 NotebookApp] The port 8888 is already in use, trying another port.
+[I 23:15:51.080 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 23:15:51.080 NotebookApp] Serving notebooks from local directory: /home/xuetaozhang/papers/word2vec
+[I 23:15:51.080 NotebookApp] The Jupyter Notebook is running at:
+[I 23:15:51.081 NotebookApp] http://localhost:8889/?token=5c14bdf51d65256992bbab0ff79e51add165c60a7b891ec1
+[I 23:15:51.081 NotebookApp]  or http://127.0.0.1:8889/?token=5c14bdf51d65256992bbab0ff79e51add165c60a7b891ec1
+[I 23:15:51.081 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:15:51.086 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/xuetaozhang/.local/share/jupyter/runtime/nbserver-31578-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=5c14bdf51d65256992bbab0ff79e51add165c60a7b891ec1
+     or http://127.0.0.1:8889/?token=5c14bdf51d65256992bbab0ff79e51add165c60a7b891ec1
+[31590:31609:0910/231551.548711:ERROR:browser_process_sub_thread.cc(203)] Waited 3 ms for network service
+Opening in existing browser session.
+[E 23:15:52.668 NotebookApp] Could not open static file ''
+[W 23:15:52.724 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 15.28ms referer=http://localhost:8889/tree?token=5c14bdf51d65256992bbab0ff79e51add165c60a7b891ec1
+[W 23:15:52.757 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 3.86ms referer=http://localhost:8889/tree?token=5c14bdf51d65256992bbab0ff79e51add165c60a7b891ec1
+[W 23:15:57.155 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 7.58ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[W 23:15:57.224 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 3.39ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[I 23:15:58.357 NotebookApp] Kernel started: f6ae3600-94e7-4f19-a0c4-5810c81e8329
+[W 23:15:58.806 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190910231550 (127.0.0.1) 5.90ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[I 23:15:59.132 NotebookApp] Adapting from protocol version 5.1 (kernel f6ae3600-94e7-4f19-a0c4-5810c81e8329) to 5.3 (client).
+2019-09-10 23:16:29.334066: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-09-10 23:16:29.364255: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2095955000 Hz
+2019-09-10 23:16:29.365362: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x39ce340 executing computations on platform Host. Devices:
+2019-09-10 23:16:29.365641: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): <undefined>, <undefined>
+2019-09-10 23:16:29.657257: W tensorflow/compiler/jit/mark_for_compilation_pass.cc:1412] (One-time warning): Not using XLA:CPU for cluster because envvar TF_XLA_FLAGS=--tf_xla_cpu_global_jit was not set.  If you want XLA:CPU, either set that envvar, or use experimental_jit_scope to enable XLA:CPU.  To confirm that XLA is active, pass --vmodule=xla_compilation_cache=1 (as a proper command-line flag, not via TF_XLA_FLAGS) or set the envvar XLA_FLAGS=--xla_hlo_profile.
+[I 23:17:08.084 NotebookApp] Kernel interrupted: f6ae3600-94e7-4f19-a0c4-5810c81e8329
+[I 23:17:58.400 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:29:58.331 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:31:58.326 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:33:58.336 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:35:58.334 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:37:58.335 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:41:58.339 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:43:58.338 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:53:58.866 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:56:29.609 NotebookApp] Starting buffering for f6ae3600-94e7-4f19-a0c4-5810c81e8329:3fbd6a915e3a4a1b9b239279c1d51b67
+[32243:32243:0910/235655.580831:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+[32209:32496:0910/235657.954049:ERROR:object_proxy.cc(619)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[I 23:57:08.417 NotebookApp] The port 8888 is already in use, trying another port.
+[I 23:57:08.417 NotebookApp] The port 8889 is already in use, trying another port.
+[I 23:57:08.443 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 23:57:08.444 NotebookApp] Serving notebooks from local directory: /home/xuetaozhang/papers/word2vec
+[I 23:57:08.444 NotebookApp] The Jupyter Notebook is running at:
+[I 23:57:08.444 NotebookApp] http://localhost:8890/?token=200aad86354710257880da0a55aeb4f10d73ce53288b76fd
+[I 23:57:08.444 NotebookApp]  or http://127.0.0.1:8890/?token=200aad86354710257880da0a55aeb4f10d73ce53288b76fd
+[I 23:57:08.444 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:57:08.449 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/xuetaozhang/.local/share/jupyter/runtime/nbserver-32526-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=200aad86354710257880da0a55aeb4f10d73ce53288b76fd
+     or http://127.0.0.1:8890/?token=200aad86354710257880da0a55aeb4f10d73ce53288b76fd
+[32538:32557:0910/235708.955832:ERROR:browser_process_sub_thread.cc(203)] Waited 4 ms for network service
+Opening in existing browser session.
+[E 23:57:10.059 NotebookApp] Could not open static file ''
+[W 23:57:10.119 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 15.55ms referer=http://localhost:8890/tree?token=200aad86354710257880da0a55aeb4f10d73ce53288b76fd
+[W 23:57:10.153 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 4.24ms referer=http://localhost:8890/tree?token=200aad86354710257880da0a55aeb4f10d73ce53288b76fd
+[W 23:57:14.519 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 6.75ms referer=http://localhost:8890/notebooks/Untitled.ipynb
+[W 23:57:14.572 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 6.34ms referer=http://localhost:8890/notebooks/Untitled.ipynb
+[I 23:57:16.160 NotebookApp] Kernel started: c75fad3b-a5d1-4d20-b8c5-5c0673d46354
+[I 23:57:16.982 NotebookApp] Adapting from protocol version 5.1 (kernel c75fad3b-a5d1-4d20-b8c5-5c0673d46354) to 5.3 (client).
+[W 23:57:17.219 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190910235708 (127.0.0.1) 4.30ms referer=http://localhost:8890/notebooks/Untitled.ipynb
+[32209:32496:0910/235725.588259:ERROR:object_proxy.cc(619)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+2019-09-11 00:00:00.548758: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-09-11 00:00:00.577551: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2095955000 Hz
+2019-09-11 00:00:00.578780: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x3364a40 executing computations on platform Host. Devices:
+2019-09-11 00:00:00.578898: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): <undefined>, <undefined>
+2019-09-11 00:00:00.894252: W tensorflow/compiler/jit/mark_for_compilation_pass.cc:1412] (One-time warning): Not using XLA:CPU for cluster because envvar TF_XLA_FLAGS=--tf_xla_cpu_global_jit was not set.  If you want XLA:CPU, either set that envvar, or use experimental_jit_scope to enable XLA:CPU.  To confirm that XLA is active, pass --vmodule=xla_compilation_cache=1 (as a proper command-line flag, not via TF_XLA_FLAGS) or set the envvar XLA_FLAGS=--xla_hlo_profile.
+[I 00:00:03.697 NotebookApp] Kernel interrupted: c75fad3b-a5d1-4d20-b8c5-5c0673d46354
+[I 00:01:16.138 NotebookApp] Saving file at /Untitled.ipynb
+[32209:32496:0911/000315.824448:ERROR:object_proxy.cc(619)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[32209:32226:0911/000659.811406:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/001700.810486:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32496:0911/002304.146005:ERROR:object_proxy.cc(619)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[1:18:0911/002311.686199:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+[1:18:0911/002311.686291:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+[1:1:0911/002311.787369:ERROR:webrtc_sdp.cc(411)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0911/002311.787666:ERROR:webrtc_sdp.cc(411)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0911/002311.787762:ERROR:webrtc_sdp.cc(411)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0911/002311.787856:ERROR:webrtc_sdp.cc(411)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0911/002311.787893:ERROR:rtc_peer_connection_handler.cc(2312)] Failed to create native session description. Type: offer SDP: v=0
+o=- 7685909898042913410 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic: WMS
+m=application 9 UDP/TLS/RTP/SAVPF 119
+c=IN IP4 0.0.0.0
+b=AS:30
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:x7XC
+a=ice-pwd:M5TMZikrt/i8kcbCArS6H5Ck
+a=ice-options:trickle
+a=fingerprint:sha-256 07:58:1D:9B:16:E0:19:51:2A:1F:C8:DE:5D:91:25:41:88:5F:42:0D:9F:83:01:5B:97:41:FA:7E:D5:4A:89:1C
+a=setup:actpass
+a=mid:0
+a=sendrecv
+a=msid: 
+a=rtcp-mux
+a=rtpmap:119 google-data/90000
+a=ssrc:1408806710 cname:jMI5jhDRGoQiekiK
+a=ssrc:1408806710 msid:- 
+a=ssrc:1408806710 mslabel:-
+a=ssrc:1408806710 label:
+
+[1:1:0911/002311.787924:ERROR:rtc_peer_connection_handler.cc(1215)] Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute.
+[1:1:0911/002311.788113:ERROR:webrtc_sdp.cc(411)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[32209:1354:0911/002311.788173:ERROR:webrtc_event_log_manager_remote.cc(408)] Session ID already set.
+[1:1:0911/002311.788238:ERROR:webrtc_sdp.cc(411)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0911/002311.788297:ERROR:webrtc_sdp.cc(411)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0911/002311.788368:ERROR:webrtc_sdp.cc(411)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0911/002311.788405:ERROR:rtc_peer_connection_handler.cc(2312)] Failed to create native session description. Type: offer SDP: v=0
+o=- 7685909898042913410 3 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 1
+a=msid-semantic: WMS
+m=application 9 UDP/TLS/RTP/SAVPF 119
+c=IN IP4 0.0.0.0
+b=AS:30
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:zn/M
+a=ice-pwd:0X5CKb4RmTaEqAJyrk5dwDYY
+a=ice-options:trickle
+a=fingerprint:sha-256 07:58:1D:9B:16:E0:19:51:2A:1F:C8:DE:5D:91:25:41:88:5F:42:0D:9F:83:01:5B:97:41:FA:7E:D5:4A:89:1C
+a=setup:actpass
+a=mid:1
+a=sendrecv
+a=msid: 
+a=rtcp-mux
+a=rtpmap:119 google-data/90000
+a=ssrc:3560393062 cname:jMI5jhDRGoQiekiK
+a=ssrc:3560393062 msid:- 
+a=ssrc:3560393062 mslabel:-
+a=ssrc:3560393062 label:
+
+[1:1:0911/002311.788434:ERROR:rtc_peer_connection_handler.cc(1215)] Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute.
+[32209:32226:0911/002701.811579:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/003702.810247:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[I 00:39:16.146 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:39:40.473 NotebookApp] Kernel interrupted: c75fad3b-a5d1-4d20-b8c5-5c0673d46354
+[I 00:41:16.119 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:41:47.241 NotebookApp] Kernel interrupted: c75fad3b-a5d1-4d20-b8c5-5c0673d46354
+[I 00:43:00.157 NotebookApp] Kernel interrupted: c75fad3b-a5d1-4d20-b8c5-5c0673d46354
+[I 00:43:16.116 NotebookApp] Saving file at /Untitled.ipynb
+[32209:32226:0911/004703.813224:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/005704.811214:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/010705.810763:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/011706.810965:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/012707.810923:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/013708.811335:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/014709.811192:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32247:32281:0911/015711.422311:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32209:32226:0911/015711.422615:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -100
+[32209:32226:0911/020712.811284:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/021713.811069:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32247:32281:0911/022158.013657:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32209:32226:0911/022158.013934:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -100
+[32209:32226:0911/023159.810774:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/024200.811438:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/025201.810892:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/030202.811480:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/031203.811242:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/032204.810377:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/033205.819185:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/034206.810645:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/035207.810721:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/040208.811328:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/041209.811483:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/042210.811490:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32247:32281:0911/043454.973974:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32209:32226:0911/043454.974269:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -100
+[32209:32226:0911/044457.811012:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/045458.810896:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/050459.811278:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/051500.810174:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/052501.810968:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/053502.810558:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/054503.810627:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/055504.811568:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/060506.811118:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/061507.811453:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/062508.811306:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/063509.811399:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/064510.818317:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/065511.810757:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/070513.811190:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/071514.811059:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/072515.811340:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/073516.818295:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/074518.810698:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/075519.811533:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/080520.810803:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/081521.811283:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/082523.810714:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[1:21:0911/083102.338586:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+[1:21:0911/083102.338711:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+[1:21:0911/083102.379846:ERROR:peer_connection.cc(5049)] channel label not found
+[1:22:0911/083142.161852:ERROR:stun_port.cc(93)] Binding request timed out from 0.0.0.x:40561 (any)
+[I 08:35:16.118 NotebookApp] Saving file at /Untitled.ipynb
+[32209:32226:0911/083524.811366:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[I 08:37:16.120 NotebookApp] Saving file at /Untitled.ipynb
+[I 08:39:16.127 NotebookApp] Saving file at /Untitled.ipynb
+[32209:32226:0911/084525.810566:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[I 08:47:16.126 NotebookApp] Saving file at /Untitled.ipynb
+[I 08:51:16.137 NotebookApp] Saving file at /Untitled.ipynb
+[I 08:52:23.914 NotebookApp] Kernel interrupted: c75fad3b-a5d1-4d20-b8c5-5c0673d46354
+[I 08:53:16.121 NotebookApp] Saving file at /Untitled.ipynb
+[I 08:55:16.118 NotebookApp] Saving file at /Untitled.ipynb
+[32209:32226:0911/085526.811337:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[I 08:57:16.110 NotebookApp] Saving file at /Untitled.ipynb
+[I 08:57:44.494 NotebookApp] Kernel interrupted: c75fad3b-a5d1-4d20-b8c5-5c0673d46354
+[I 08:59:16.123 NotebookApp] Saving file at /Untitled.ipynb
+[32209:32226:0911/090528.811341:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/091530.811080:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/092531.811440:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/093532.810200:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/094533.810253:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/095534.811351:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/100536.810751:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/101537.810696:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[I 10:17:16.142 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:19:16.118 NotebookApp] Saving file at /Untitled.ipynb
+[32209:32226:0911/102046.992739:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[I 10:21:16.119 NotebookApp] Saving file at /Untitled.ipynb
+[32209:32226:0911/103047.810013:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32226:0911/104049.810714:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[32209:32496:0911/104211.050483:ERROR:object_proxy.cc(619)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[32209:32496:0911/104232.371860:ERROR:object_proxy.cc(619)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[32247:32281:0911/104252.740017:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -215
+[32209:32496:0911/104451.231117:ERROR:object_proxy.cc(619)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[32209:32226:0911/105050.810423:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Gtk-Message: 10:58:08.421: GtkDialog mapped without a transient parent. This is discouraged.
+[32209:32226:0911/110051.811365:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Gtk-Message: 11:02:29.447: GtkDialog mapped without a transient parent. This is discouraged.
+[32247:32281:0911/110410.342853:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32247:32281:0911/110410.507742:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32247:32281:0911/110418.862832:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32247:32281:0911/110424.903380:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32247:32281:0911/110425.894852:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32247:32281:0911/110426.851609:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32247:32281:0911/110427.850862:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32247:32281:0911/110428.847716:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32247:32281:0911/110428.847940:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32209:32226:0911/111052.810828:ERROR:socket_stream.cc(219)] Closing stream with result -2
